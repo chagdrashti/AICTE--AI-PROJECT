@@ -2,16 +2,12 @@
 
 ## 💫 About Developer:
 
-### Banish J
+
 
 🤖 AI & ML Developer | Data Science & Analytics Expert  
 🌐 Web Apps & IoT Skilled | Awesome UI Creator  
 💻 AI is my main focus! 👾
 
-## 📞 Contact
-##### **☎️**   [9444333914](tel:9444333914)
-##### **📧**  [mail@banish.in](mailto:mail@banish.in)
-##### **🌐**  [Banish](https://www.banish.in)
 
 ## Core Concept
 
